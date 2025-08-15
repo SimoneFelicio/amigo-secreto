@@ -1,6 +1,7 @@
 🧑‍🤝‍🧑 Amigo Secreto - Projeto JavaScript
 
-Aplicativo simples para organizar sorteios de Amigo Secreto, feito com HTML, CSS e JavaScript. Permite adicionar amigos, visualizar a lista e sortear de forma aleatória, com mensagens de erro integradas na interface.
+Aplicativo simples para organizar sorteios de Amigo Secreto, feito com HTML, CSS e JavaScript. 
+Permite adicionar amigos, visualizar a lista e sortear de forma aleatória, com mensagens de erro integradas na interface.
 
 🚀 Funcionalidades
 
