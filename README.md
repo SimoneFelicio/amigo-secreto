@@ -38,4 +38,4 @@ MIT
 
 🌐 Acesso ao Projeto
 
-<a href="https://simone-f-f.github.io/amigo-secreto/" target="_blank"Site</a>
+<a href="https://simone-f-f.github.io/amigo-secreto/" target="_blank">Site</a>
