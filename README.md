@@ -23,11 +23,15 @@
 
 📝 Como Usar
 
-1 - Abra index.html no navegador.
-2 - No campo "Digite o nome", insira o nome de um amigo e clique em Adicionar.
-3 - O nome aparece na lista.
-4 - Se estiver vazio ou repetido, uma mensagem de erro será exibida.
-5 - Repita para todos os amigos.
-6 - Clique em Sortear amigo para ver quem foi sorteado.
-7 - O resultado aparece na área de resultado.
-8 - Se a lista estiver vazia, uma mensagem de aviso é exibida.
+1. Abra index.html no navegador.
+2. No campo "Digite o nome", insira o nome de um amigo e clique em Adicionar.
+3. O nome aparece na lista.
+4. Se estiver vazio ou repetido, uma mensagem de erro será exibida.
+5. Repita para todos os amigos.
+6. Clique em Sortear amigo para ver quem foi sorteado.
+7. O resultado aparece na área de resultado.
+8. Se a lista estiver vazia, uma mensagem de aviso é exibida.
+
+📝 Licença
+
+MIT
